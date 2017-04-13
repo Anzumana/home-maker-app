@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Anzumana/home-maker-app.svg?branch=master)](https://travis-ci.org/Anzumana/home-maker-app)
 webapp for [home-maker](https://github.com/Anzumana/home-maker)
 
 # Website
